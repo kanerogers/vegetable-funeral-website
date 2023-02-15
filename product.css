@@ -20,6 +20,10 @@
   text-decoration: none;
 }
 
+.logo-header {
+  background-color: #F2F3F2;
+}
+
 /*
  * Dummy devices (replace them with your own or something else entirely!)
  */
